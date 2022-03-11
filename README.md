@@ -1,3 +1,5 @@
+[View the entire analysis and code here](http://nbviewer.org/github/PhuongTheLuanDao/terrorism_project/blob/main/terrorism_project.ipynb) - If you're interested about the topic.
+
 ![](https://project-iris.app-staging.cloud/wp-content/uploads/2019/08/imageedit_10_9511370427-clean2.png)
 
 **Image Source:** https://www.start.umd.edu/gtd/
